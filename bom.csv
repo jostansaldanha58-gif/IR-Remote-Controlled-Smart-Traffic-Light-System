@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component,,,
+D1,1,Red LED,,,
+D2,1,Green LED,,,
+D3,1,Yellow LED,,,
+"R1, R2, R3",3,220 Ω Resistor,,,
+U5,1, IR sensor,,,
+U7,1, Arduino Uno R3,,,
+U8,1,"Green, 112 (0x70) 7-Segment Clock Display",,,
