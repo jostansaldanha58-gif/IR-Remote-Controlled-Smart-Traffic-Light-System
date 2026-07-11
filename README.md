@@ -95,6 +95,12 @@ Built and functionally verified as a Tinkercad circuit simulation, as part of a 
 
 ---
 
+## Circuit Diagram
+
+![Circuit Schematic](./docs/circuit-diagram.png)
+
+🔗 **Live simulation:** [View & simulate this circuit on Tinkercad](https://www.tinkercad.com/things/g1hDvAVVQEn-infrared-remote-control)
+
 ## Acknowledgment
 
 This project was developed as a minor project during an internship at **Ediglobe**.
