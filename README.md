@@ -86,15 +86,6 @@ Built and functionally verified as a Tinkercad circuit simulation, as part of a 
 
 ---
 
-## Future Scope
-
-- Vehicle density sensing for adaptive green-phase duration
-- Multi-junction, wirelessly coordinated signal network
-- Pedestrian call button & emergency-vehicle priority override
-- Data logging/dashboard via serial or Wi-Fi (e.g., ESP32)
-
----
-
 ## Circuit Diagram
 
 ![Circuit Schematic](./docs/circuit-diagram.png)
