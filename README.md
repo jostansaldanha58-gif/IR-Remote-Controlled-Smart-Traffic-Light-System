@@ -1,6 +1,3 @@
-Here's a complete `README.md` you can drop straight into the repo:
-
-```markdown
 # IR Remote Controlled Smart Traffic Light System with Countdown Timer
 
 An Arduino Uno–based traffic signal controller that combines **infrared remote control** with a **live countdown display**. An operator can manually override the signal (Red / Yellow / Green) at any time via IR remote, or let the system run a fully automatic, self-restarting countdown sequence — with the remaining seconds shown in real time on a 7-segment display.
